@@ -1,3 +1,5 @@
 This is on 3.txt
 
 Another test line
+
+Thursday
